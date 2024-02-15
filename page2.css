@@ -1,0 +1,109 @@
+body {
+background-color: wheat;
+}
+
+
+h1 {
+position: relative;
+top: -6vw;
+font-family: "elfreth", sans-serif;
+font-weight: 300;
+font-style: normal;
+font-size: 9vw;
+color: olive;
+text-align: center;
+border: olive dotted 0.7vw;
+}
+
+h2 {
+font-family: "eckmannpsych-small", sans-serif;
+font-weight: 400;
+font-style: normal;
+line-height: 1.5;
+color: olive;
+font-size: 2.5vw;
+text-align: center;
+}
+
+h3 {
+font-family: "eckmannpsych-small", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 3.2vw;
+color: olive;
+  
+  
+}
+
+.underrubrik {
+font-family: "eckmannpsych-small", sans-serif;
+font-weight: 400;
+font-style: normal;
+line-height: 1.5;
+color: olive;
+font-size: 4.5vw;
+text-align: center;
+position: relative;
+top: -11vw;
+}
+
+p {
+  font-family: times;
+  text-align: center;
+  font-size: 1.5vw;
+  color: black;
+ 
+}
+
+a {
+ font-family: "eckmannpsych-small", sans-serif;
+ font-style: normal;
+ text-decoration: none;
+ color: olive;
+ font-size: 3.2vw;
+}
+
+a:hover {
+  font-family: "eckmannpsych-small", sans-serif;
+  font-style: normal;
+  text-decoration: none;
+  color: white;
+}
+
+iframe {
+  position: relative;
+  scale: 80%;
+  border: dotted white 0.7vw;
+}
+
+.songs {
+  position: relative;
+  top: -11vw;
+}
+
+.menu1 {
+position: relative; 
+top: -1vw;
+}
+
+.menu2 {
+position: relative;
+top: -2vw;
+}
+
+#border {
+background-color: goldenrod;
+width: 100%;
+height: 5.2vw;
+position: absolute;
+top: 2vw;
+  
+}
+
+#border2 {
+background-color: goldenrod;
+width: 100%;
+height: 5.2vw;
+position: absolute;
+top: 218vw;
+}
